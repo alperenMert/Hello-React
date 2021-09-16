@@ -1,1 +1,1 @@
-# Hello-React
+# React Native ile componentler oluşturularak bu componentler App componenti üzerinden çağırıldı. Componentlerin hiyerarşik düzenleri, birbirleri üzerinden çağırılmaları sağlandı. Ana sayfa üzerinde başlık, logo ekleme, imza ve tarih saat bilgilerinin gösterilmesi sağlandı. Bu componentlerin düzeni css kullanılarak sağlandı.
